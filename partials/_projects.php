@@ -66,16 +66,16 @@
             <div class="flex flex-wrap gap-1">
               <div
                 class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs border-primary/20">
-                Next.js</div>
+                HTML</div>
               <div
                 class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs border-primary/20">
-                React</div>
+                CSS</div>
               <div
                 class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs border-primary/20">
-                Node.js</div>
+                Laravel</div>
               <div
                 class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 text-foreground text-xs border-primary/20">
-                Tailwind CSS</div>
+                MySQL</div>
             </div>
           </div>
 
