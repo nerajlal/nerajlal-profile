@@ -741,6 +741,34 @@
                         class="absolute inset-0 bg-gradient-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                     </div>
                 </div>
+                <div class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80 px-4 py-2 text-sm hover:bg-primary/20 hover:border-primary/30 hover:scale-110 hover:shadow-glow transition-all duration-300 cursor-default animate-slide-up group relative overflow-hidden"
+                    style="animation-delay: 2050ms">
+                    <span class="relative z-10 group-hover:text-primary-foreground transition-colors">LLMs</span>
+                    <div
+                        class="absolute inset-0 bg-gradient-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    </div>
+                </div>
+                <div class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80 px-4 py-2 text-sm hover:bg-primary/20 hover:border-primary/30 hover:scale-110 hover:shadow-glow transition-all duration-300 cursor-default animate-slide-up group relative overflow-hidden"
+                    style="animation-delay: 2100ms">
+                    <span class="relative z-10 group-hover:text-primary-foreground transition-colors">OpenAI API</span>
+                    <div
+                        class="absolute inset-0 bg-gradient-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    </div>
+                </div>
+                <div class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80 px-4 py-2 text-sm hover:bg-primary/20 hover:border-primary/30 hover:scale-110 hover:shadow-glow transition-all duration-300 cursor-default animate-slide-up group relative overflow-hidden"
+                    style="animation-delay: 2150ms">
+                    <span class="relative z-10 group-hover:text-primary-foreground transition-colors">TensorFlow</span>
+                    <div
+                        class="absolute inset-0 bg-gradient-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    </div>
+                </div>
+                <div class="inline-flex items-center rounded-full border px-2.5 py-0.5 text-xs font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-secondary text-secondary-foreground hover:bg-secondary/80 px-4 py-2 text-sm hover:bg-primary/20 hover:border-primary/30 hover:scale-110 hover:shadow-glow transition-all duration-300 cursor-default animate-slide-up group relative overflow-hidden"
+                    style="animation-delay: 2200ms">
+                    <span class="relative z-10 group-hover:text-primary-foreground transition-colors">PyTorch</span>
+                    <div
+                        class="absolute inset-0 bg-gradient-primary opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                    </div>
+                </div>
             </div>
         </div>
     </div>
